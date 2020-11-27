@@ -1,0 +1,14 @@
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\test.deps.json
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\test.dll
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\SeaweedFs.SuperClient.dll
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\SeaweedFs.SuperClient.pdb
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.csproj.CopyComplete
+F:\TECHStudy\SeaweedFs.SuperClient\test\bin\Debug\netcoreapp2.1\test.pdb
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.dll
+F:\TECHStudy\SeaweedFs.SuperClient\test\obj\Debug\netcoreapp2.1\test.pdb

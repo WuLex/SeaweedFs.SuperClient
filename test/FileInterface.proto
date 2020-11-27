@@ -1,0 +1,71 @@
+﻿syntax = "proto3";
+
+service Files {
+    rpc DownloadFiles (DownloadRequest) returns (stream DownloadResponse) {};
+    rpc UploadFiles (stream UploadRequest) returns (UploadResponse) {};
+    rpc DeleteFiles (DeleteRequest) returns (DeleteResponse) {};
+    rpc ListFiles (ListRequest) returns (ListResponse) {};
+    rpc ListExactFiles (ListExactRequest) returns (ListResponse) {};
+}
+
+message DownloadRequest {
+    repeated string fileNames = 1;
+}
+
+message DownloadResponse {
+    repeated DownloadResult result = 1;
+}
+
+message DownloadResult {
+    string fileName = 1;
+    bool succeeded = 2;
+    bytes content = 3;
+}
+
+message UploadRequest {
+    repeated UploadInfo infos = 1;
+}
+
+message UploadInfo {
+    string fileName = 1;
+    bytes content = 2;
+}
+
+message UploadResponse {
+    repeated UploadResult results = 1;
+}
+
+message UploadResult {
+    string fileName = 1;
+    bool succeeded = 2;
+}
+
+message DeleteRequest {
+    repeated string fileNames = 1;
+}
+
+message DeleteResponse {
+    repeated DeleteResult results = 1;
+}
+
+message DeleteResult {
+    string fileName = 1;
+    bool succeeded = 2;
+}
+
+message ListRequest {
+    string prefix = 1;
+}
+
+message ListExactRequest {
+    repeated string fileNames = 1;
+}
+
+message ListResponse {
+    repeated FileInformation fileInfos = 1;
+}
+
+message FileInformation {
+    string fileName = 1;
+    int64 lastModified = 2;
+}

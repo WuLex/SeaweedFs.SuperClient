@@ -1,0 +1,10 @@
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\bin\Debug\netstandard2.0\SeaweedFs.SuperClient.deps.json
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\bin\Debug\netstandard2.0\SeaweedFs.SuperClient.dll
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\bin\Debug\netstandard2.0\SeaweedFs.SuperClient.pdb
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.csproj.CoreCompileInputs.cache
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.AssemblyInfoInputs.cache
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.AssemblyInfo.cs
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.dll
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.pdb
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.Messages.resources
+F:\TECHStudy\SeaweedFs.SuperClient\SeaweedFs.SuperClient\obj\Debug\netstandard2.0\SeaweedFs.SuperClient.csproj.GenerateResource.cache
